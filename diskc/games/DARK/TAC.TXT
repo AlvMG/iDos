@@ -1,0 +1,66 @@
+06/18/95 19:18:22
+Tac params are
+	mode: 0
+	bfldtype: 48
+	rseed: 19730
+	ftype1: 15	fqual1: 2	fnum1: 4
+	ftype2: 22	fqual2: 1	fnum2: 1
+	ftype3: -1	fqual3: 0	fnum3: 0
+	terrn: 24	mnth: 7
+
+Enemy Activation Record for level 0
+	NumActivationSpots: 2
+	strtx: 720
+	strty: 344
+	sprd: 16
+	rm: -1
+	AllowReenf: 1
+	type[0]: 0
+	type[1]: 1
+	type[2]: -1
+	num/type[0]: 1
+	num/type[1]: 1
+	num/type[2]: 0
+	F: 0	G: 5 Pf: 2
+		Rtype: 1
+		Rsprd: 16
+		Rx: 688
+		Ry: 616
+		Rrate: 0
+		Rmax: 0
+		Rdirn: 4
+	strtx: 720
+	strty: 472
+	sprd: 16
+	rm: -1
+	AllowReenf: 1
+	type[0]: 0
+	type[1]: -1
+	type[2]: -1
+	num/type[0]: 3
+	num/type[1]: 0
+	num/type[2]: 0
+	F: 0	G: 7 Pf: 3
+		Rtype: 1
+		Rsprd: 16
+		Rx: 688
+		Ry: 616
+		Rrate: 0
+		Rmax: 0
+		Rdirn: 4
+Level Record:0
+V:-2 S:-2 R:-2 D-2 E:-2
+FurnRemove
+x:0 y:0
+x:0 y:0
+x:0 y:0
+x:0 y:0
+x:0 y:0
+WallRemove
+x:0 y:0
+x:0 y:0
+x:0 y:0
+x:0 y:0
+x:0 y:0
+x:0 y:0
+x:0 y:0
